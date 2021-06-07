@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Self-introduction</title>
+        <p>
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">  
+        </p>
+    </head>
+    <body>
+        <h1>
+         <strong>yuta saito</strong>
+        </h1>
+        <h2>
+            Self-introduction
+        </h2>
+        <p>
+            <br>
+            Age 13 years old
+            <br>
+            birthplace  Tokyo
+            <br>
+           Favorite game fortnite apex
+           <br>
+           Favorite food  grilled fish and fruit
+           <br>
+           Favoritwe movie<strong>天気の子（weathering with you)</strong> 
+            <br>
+            I like climbing mountains.          
+           <br>
+           There are three reasons
+           <br>
+          
+        </p>
+        <ol>
+            <li>The story is well done</li>
+            <li>I like a song（Is there still anything you can love?)</li>
+           
+            <strong>please take a look by all means</strong>
+
+        </ol>
+         
+         
+    
+    
+    
+        </body>
+</html>
