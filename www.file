@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>curry</title>
+    </head>
+    <boby>
+        <h1>curry making</h1>
+
+        <form method="POST">
+            <p> First name</p>
+            <input type="text" name="first_name">
+            <p> Last name</p>
+            <input type="text" name="last_name">
+            <p>Your favorite food</p>
+            <input type="password" name="password">
+            <input type=reset
+            <br>
+            <p>Food you want to put in curry</p>
+            <input type="button" onclick="alert('Hello World')"value="Click Me!">
+            <br>
+            <input type="checkbox" name="vegetable" value="Onion">Onion
+            <br>
+            <input type="checkbox" name="vegetable" value="Potato">Potato
+            <br>
+            <input type="checkbox" name="vegetable" value="carrot">Carrot
+            <br>
+            <input type="checkbox" name="fruit" value="apple">Apple
+            <br>
+            <input type="checkbox" name="fruit" value="banana">Banana
+            <br>
+            <input type="checkbox" name="fruit" value="mango">Mango
+            <br>
+            <input type="checkbox" name="What is in the sea" value="fish">Fish
+            <br>
+            <input type="checkbox" name="What is in the sea" value="apple">Apple
+            <br>
+            <input type="checkbox" name="What is in the sea" value="scallop">Scallop
+            <br>
+            <input type="checkbox" name="What is in the sea" value="seawood">Seawood
+            <input type="color" name="color">
+            <br>
+            <textarea name="comment" rows="5" cols="25" placeholder="Other things you want to put"></textarea>
+
+            <br>
+            <br>
+
+            <select name="lang">
+                <opsion value="Nihongo">Japanese</opsion>
+                <opsion value="Tagalog">Filipino</opsion>
+            </select>
+
+           
+        </form>
+    </boby>
+</html>
